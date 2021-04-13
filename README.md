@@ -36,9 +36,12 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 2. Place the file in the DRLND GitHub repository, in the `p3_collab-compet/` folder, and unzip (or decompress) the file.
 
-### Instructions
+### Instructions To Run
 
-Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
+Dependencies, resources, links and further information can be found in the main repository [Udacity DRLND](https://github.com/udacity/deep-reinforcement-learning/tree/master/). Requirements include setting up PyTorch, the ML-Agents toolkit, and a few more Python packages.
+
+After managing all dependencies, please follow the instructions in `Tennis.ipynb`.
+
 
 ### (Optional) Challenge: Crawler Environment
 
